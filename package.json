@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "教学测试案例",
+  "main": "./bin/index.js",
+  "scripts": {
+    "dev": "nodemon ./bin/server.js"
+  },
+  "author": "tea",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
