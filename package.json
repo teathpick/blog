@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "教学测试案例",
-  "main": "./bin/index.js",
+  "main": "./bin/server.js",
   "scripts": {
     "dev": "nodemon ./bin/server.js"
   },
